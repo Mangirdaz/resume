@@ -1,4 +1,4 @@
-# resume
-This is my Resume in JSON for external services to read 
+# Mangirdas Judeikis
 
-Just using my GIT as free hosting :)
+*.PDF format of Resume
+*.json json version of Resume
